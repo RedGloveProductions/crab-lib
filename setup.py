@@ -8,7 +8,7 @@ setup(
     long_description_content_type="text/markdown",
     author="Joe Stem - Red Glove Productions",
     author_email="joestem25@gmail.com",
-    url="https://github.com/RedGloveProductions/crab-lib",  # Replace with your actual repository URL
+    url="https://github.com/RedGloveProductions/crab-lib",
     packages=find_packages(),
     install_requires=[
         "matplotlib>=3.0.0",
@@ -29,7 +29,7 @@ setup(
     ],
     keywords="gps fishing data analysis visualization",
     project_urls={
-        "Bug Tracker": "https://github.com/yourusername/crab-lib/issues",
-        "Source Code": "https://github.com/yourusername/crab-lib",
+        "Bug Tracker": "https://github.com/RedGloveProductions/crab-lib/issues",
+        "Source Code": "https://github.com/RedGloveProductions/crab-lib",
     },
 )
