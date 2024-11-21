@@ -27,9 +27,9 @@ from .visualization import plot_points, create_heatmap
 from .utils import convert_coordinates, calculate_bearing
 
 # Metadata
-__version__ = "0.1.0"
-__author__ = "Your Name"
-__license__ = "MIT"
+__version__ = "1.0.0"
+__author__ = "Joe Stem"
+__license__ = "GNU"
 
 # Expose main functions for easier access
 __all__ = [
